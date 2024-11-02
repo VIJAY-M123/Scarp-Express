@@ -14,10 +14,10 @@ function About() {
            <Grid item xs={12} md={4} lg={4}>
              <Typography sx={{fontSize:"20px"}}>Address</Typography>
              <div className='mt-5 ml-16'>
-              <Typography>Ms.Kalavathi Muthuraman</Typography>
-              <Typography>7/14 North Street,</Typography>
-              <Typography>Thiruvenkadapuram,</Typography>
-              <Typography>Theripanani-600702</Typography>
+              <Typography>No:5 Kathirvel Street,</Typography>
+              <Typography>Arumugam Nagar Extension,</Typography>
+              <Typography>Chinna Porur,</Typography>
+              <Typography>Chennai-600116</Typography>
              </div>
            </Grid>
            <Grid item xs={12} md={4} lg={4}>
@@ -29,7 +29,7 @@ function About() {
               </div>
               <div className='flex flex-row mt-5'>
                 <MailIcon/>
-                <Typography sx={{marginLeft:"10px"}}>java7401546493@gmail.com</Typography>
+                <Typography sx={{marginLeft:"10px"}}>scrapexpress24@gmail.com</Typography>
               </div>
              </div>
            </Grid>
